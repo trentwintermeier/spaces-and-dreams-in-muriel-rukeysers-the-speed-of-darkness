@@ -391,8 +391,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Situational Voice, Notes"
+          "category": "Annotations",
+          "tag": "Notes"
+        },
+        {
+          "tag": "Situational Voice",
+          "category": "Voices"
         }
       ],
       "uuid": "f0acab64-03ac-44c3-8cc9-2b008deddb1a"
