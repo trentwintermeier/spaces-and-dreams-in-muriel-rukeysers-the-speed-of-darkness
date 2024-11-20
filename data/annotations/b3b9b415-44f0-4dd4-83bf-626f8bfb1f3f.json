@@ -15,8 +15,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Speaking Voice, Transcript"
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
         }
       ],
       "uuid": "89ed8dbd-3061-4c72-a584-2348ff483d83"
