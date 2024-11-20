@@ -483,8 +483,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Reading Voice, Notes"
+          "category": "Annotations",
+          "tag": "Notes"
+        },
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
         }
       ],
       "uuid": "486b3710-8083-4fef-a461-b669421b3da7"
