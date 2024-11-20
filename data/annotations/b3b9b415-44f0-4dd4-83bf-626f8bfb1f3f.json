@@ -274,8 +274,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Reading Voice, Notes"
+          "category": "Annotations",
+          "tag": "Notes"
+        },
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
         }
       ],
       "uuid": "53edda01-530c-40ce-91f2-07066d7365f6"
