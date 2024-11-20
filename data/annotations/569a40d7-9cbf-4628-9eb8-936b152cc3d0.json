@@ -1,5 +1,706 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The last problem I'll read this evening is a group. The group is called “The Speed of Darkness.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b7952b7d-2535-440c-9d1c-ef1310a6bc0e"
+    },
+    {
+      "start_time": 13,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They’re short poems, and I'll just pause between poems. There should be numbers going up and back of me: 1, 2, 3. I’ll just-- I will pause. “The Speed of Darkness.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9104ffd8-b59b-4106-88d2-c3bd1713182c"
+    },
+    {
+      "start_time": 30,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whoever despises the clitoris despises the penis. Whoever despises the penis despises the cunt. Whoever despises the cunt despises the life of the child. Resurrection, music, silence, and surf. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6efaf231-4950-443c-ba8c-65accc96f8e0"
+    },
+    {
+      "start_time": 52,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "9c869b4b-b730-4788-9516-4f097951d2e1"
+    },
+    {
+      "start_time": 54,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No longer speaking. Listening with the whole body. And with every drop of blood. Overtaken by silence. But this same silence is become speech, with the speed of darkness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "511fed91-56f9-48b3-b4ea-9c92aca1b5b2"
+    },
+    {
+      "start_time": 72,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "97f658e1-caf5-47eb-8280-bf1067400b61"
+    },
+    {
+      "start_time": 73,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stillness during war, the lake. The unmoving spruces. Glints over the water. Faces, voices. You are far away. A tree that trembles. I am the tree that trembles and trembles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1e026cc0-df5d-4f39-a310-5f5eced6a624"
+    },
+    {
+      "start_time": 96,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "4cafaf7d-8804-4b72-971d-475fe881fbd9"
+    },
+    {
+      "start_time": 101,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the lifting of the mist, after the lift of the heavy rains, the sky stands clear and the cries of the city risen in day. I remember the buildings are space walled, to let space be used for living. I mind this room is space this drinking glass is space whose boundary of glass let’s me give you drink and space to drink your hand, my hand being space containing skies and constellations. Your face carries the reaches of air. I know I am space my words are air."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5ac9799b-109e-4a7c-bd1d-68bc2e83c238"
+    },
+    {
+      "start_time": 155,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 4"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "0fead168-1ef3-4ab9-84ad-5f53aab31d70"
+    },
+    {
+      "start_time": 157,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between between, the man, act exact. Woman, in curve senses in their maze, frail orbits, green tries, games of stars, shape of the body speaking its evidence"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "672e9ae9-523f-4a23-85e1-50acccb0ff87"
+    },
+    {
+      "start_time": 182,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 5"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "033c5478-226a-4956-ac13-b5206b9f2b0d"
+    },
+    {
+      "start_time": 184,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I look across at the real, vulnerable, involved, naked; devoted to the present of all I care for. The world of its history leading to this moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "32345b6d-46a8-42f9-b7e1-62755e78d6a9"
+    },
+    {
+      "start_time": 200,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 6"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "70f5832f-c147-4f6b-9f51-3f615d3c60b8"
+    },
+    {
+      "start_time": 202,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Life the announcer. I assure you there are many ways to have a child. I bastard mother promise you there are many ways to be born. They all come forth in their own grace. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7407de04-323a-4b6a-9961-ebf8711dcc3f"
+    },
+    {
+      "start_time": 220,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 7"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "b177e95d-2800-4066-8947-4d53022b42fa"
+    },
+    {
+      "start_time": 221,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience member coughs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Situational Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "8eb18220-9995-4afb-bfe2-e8ce86724de0"
+    },
+    {
+      "start_time": 224,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ends of the earth join tonight with blazing stars upon their meeting. These sons, these sons fall burning into Asia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "0c8c7a3f-bce2-407b-8908-1bcc99a7e5f1"
+    },
+    {
+      "start_time": 236,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 8"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "835ede6c-62eb-494d-a426-eb294550a9ae"
+    },
+    {
+      "start_time": 238,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Time comes into it. Say it. Say it. The universe is made of stories, not of atoms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "35bf61ca-af98-47a1-924d-49b2d4f60089"
+    },
+    {
+      "start_time": 247,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 9"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "4c5be70e-c87a-4380-951c-8d1fccc117a7"
+    },
+    {
+      "start_time": 250,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lying, blazing beside me, you rear beautifully and up—your thinking face—erotic body reaching in all its colors and lights—your erotic face colored and lit—not colored body-and-face but now entire colors, lights. The world thinking and reaching."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "cc9794ee-c138-40db-a788-779d58fd425a"
+    },
+    {
+      "start_time": 277,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 10"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "3b4c5d71-6282-47ae-aca3-5dbf07c9b34c"
+    },
+    {
+      "start_time": 281,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The river flows past the city. Water goes down to tomorrow making its children. I hear their unborn voices. I am working out the vocabulary of my silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7031d05b-6aac-4160-be40-20d7bbebe3ce"
+    },
+    {
+      "start_time": 297,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 11"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "99013b6b-f705-4038-b65f-aba04231b5c4"
+    },
+    {
+      "start_time": 301,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Big-boned man young and of my dream. Struggles to get the live bird out of his throat. I am he am I? Dreaming? I am the bird am I? I am the throat? A bird with a curved beak. It could slit anything, the throat-bird. Drawn up slowly. The curved blades, not large. Bird emerges, wet, being born. Begins to sing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "083f64fc-3bf1-4fa1-a652-97e427dfa531"
+    },
+    {
+      "start_time": 341,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space 12"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "80c1cb53-2472-4af5-bd83-74399f85174e"
+    },
+    {
+      "start_time": 343,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My night awake staring at the broad rough jewel, the copper roof across the way, thinking of the poet yet unborn in this dark who will be the throat of these hours. No. Of those hours. Who will speak these days, if not I, if not you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking Voice",
+          "category": "Voices"
+        },
+        {
+          "category": "Annotations",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "27a1a670-5477-4181-9181-35ce6e13ad91"
+    }
+  ],
   "set": "Default",
   "event_id": "ddb8b71b-6e62-48ec-a961-fb4338d295f9",
   "source_id": "6128dcaa-3568-4d03-9b55-383e5eb629a1"
