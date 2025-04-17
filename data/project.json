@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "trentwintermeier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112954339?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "trentwintermeier",
     "is_private": false,
@@ -72,6 +78,7 @@
       ]
     },
     "created_at": "2024-11-19T23:10:36.107Z",
-    "updated_at": "2024-11-20T20:25:24.562Z"
+    "updated_at": "2024-11-20T20:25:24.562Z",
+    "generate_pages_site": true
   }
 }
