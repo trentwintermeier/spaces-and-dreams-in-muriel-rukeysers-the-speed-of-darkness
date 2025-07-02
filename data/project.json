@@ -49,10 +49,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Situational Voice, Notes"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Rukeyser"
         },
         {
@@ -82,7 +78,7 @@
       ]
     },
     "created_at": "2024-11-19T23:10:36.107Z",
-    "updated_at": "2025-07-02T14:03:05.370Z",
+    "updated_at": "2025-07-02T14:03:11.688Z",
     "generate_pages_site": true
   }
 }
