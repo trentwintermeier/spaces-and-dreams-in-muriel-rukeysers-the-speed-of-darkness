@@ -58,9 +58,25 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://github.com/trentwintermeier/spaces-and-dreams-in-muriel-rukeysers-the-speed-of-darkness/blob/31428062d9870eeabf82e68eca7044d95182140d/assets/images/speedofdarknessstanzafive.png",
-      "caption": "Figure 1: Photograph of fifth stanza in \"The Speed of Darkness\" (Rukeyser \"The Speed of Darkness\"). ",
+      "url": "assets/images/speedofdarknessstanzafive.png",
+      "caption": "Figure 1: Fifth stanza of \"The Speed of Darkness\" (Rukeyser, \"The Speed of Darkness\"). ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -141,6 +157,6 @@
   "slug": "introduction",
   "created_at": "2024-11-19T23:13:57.733Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-08-06T13:29:33.561Z",
+  "updated_at": "2025-08-06T13:40:29.196Z",
   "updated_by": "trentwintermeier"
 }
