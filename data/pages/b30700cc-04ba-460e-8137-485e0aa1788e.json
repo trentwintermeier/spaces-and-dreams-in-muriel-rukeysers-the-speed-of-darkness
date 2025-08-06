@@ -4,7 +4,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Clement, Tanya, Ben Brumfield, and Sara Brumfield. “The AudiAnnotate Project: Four Case Studies in Publishing Annotations for Audio and Video.” DHQ: Digital Humanities Quarterly 16.2 (2022)."
+          "text": "Clement, Tanya, Ben Brumfield, and Sara Brumfield. “The AudiAnnotate Project: Four Case Studies in Publishing Annotations for Audio and Video.” "
+        },
+        {
+          "text": "DHQ: Digital Humanities Quarterly",
+          "italic": true
+        },
+        {
+          "text": " 16.2 (2022)."
         }
       ]
     },
@@ -12,7 +19,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Mitts, Adam. “The Vocabulary of Silence: Voice and Disability in ‘The Speed of Darkness.’” The Muriel Rukeyser Living Archive, October 17, 2015. http://murielrukeyser.emuenglish.org/2015/10/17/adam-mitts-the-vocabulary-of-silence-voice-and-disability-in-the-speed-of-darkness/."
+          "text": "Mitts, Adam. “The Vocabulary of Silence: Voice and Disability in ‘The Speed of Darkness.’” "
+        },
+        {
+          "text": "The Muriel Rukeyser Living Archive",
+          "italic": true
+        },
+        {
+          "text": ", October 17, 2015. http://murielrukeyser.emuenglish.org/2015/10/17/adam-mitts-the-vocabulary-of-silence-voice-and-disability-in-the-speed-of-darkness/."
         }
       ]
     },
@@ -20,7 +34,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Rukeyser, Muriel. “Muriel Rukeyser at SGWU, 1969,” The Poetry Series, Sir George Williams University, 24 January 1969, SpokenWeb “Sir George Williams Poetry Series.”"
+          "text": "Rukeyser, Muriel. “Muriel Rukeyser at SGWU, 1969,” "
+        },
+        {
+          "text": "The Poetry Series, Sir George Williams University",
+          "italic": true
+        },
+        {
+          "text": ", 24 January 1969, SpokenWeb “Sir George Williams Poetry Series.”"
         }
       ]
     },
@@ -28,7 +49,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "—. “The Education of a Poet.” 1976. The Writer on her Work. Ed. Janet Sternberg. New York: W.W. Norton, 2000 217-30."
+          "text": "—. “The Education of a Poet.” "
+        },
+        {
+          "text": "The Writer on her Work",
+          "italic": true
+        },
+        {
+          "text": ". Ed. Janet Sternberg. New York: W.W. Norton, 2000 217-30."
         }
       ]
     },
@@ -36,7 +64,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "—. "
+        },
+        {
+          "text": "The Speed of Darkness. ",
+          "italic": true
+        },
+        {
+          "text": "Random House, New York, NY. 1968. "
         }
       ]
     },
@@ -57,6 +92,6 @@
   "slug": "works-cited",
   "created_at": "2024-11-19T23:15:02.944Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2024-11-19T23:15:02.944Z",
+  "updated_at": "2025-08-06T13:33:46.440Z",
   "updated_by": "trentwintermeier"
 }
