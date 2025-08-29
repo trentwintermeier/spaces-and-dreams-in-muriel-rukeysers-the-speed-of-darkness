@@ -49,10 +49,6 @@
         },
         {
           "category": "Voices",
-          "tag": "Speaking Voice"
-        },
-        {
-          "category": "Voices",
           "tag": "Reading Voice"
         },
         {
@@ -94,7 +90,7 @@
       ]
     },
     "created_at": "2024-11-19T23:10:36.107Z",
-    "updated_at": "2025-08-29T19:43:45.117Z",
+    "updated_at": "2025-08-29T19:44:07.837Z",
     "generate_pages_site": true
   }
 }
