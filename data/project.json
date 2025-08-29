@@ -49,10 +49,6 @@
         },
         {
           "category": "Voices",
-          "tag": "Reading Voice"
-        },
-        {
-          "category": "Voices",
           "tag": "Social Voice"
         },
         {
@@ -90,7 +86,7 @@
       ]
     },
     "created_at": "2024-11-19T23:10:36.107Z",
-    "updated_at": "2025-08-29T19:44:07.837Z",
+    "updated_at": "2025-08-29T19:44:10.881Z",
     "generate_pages_site": true
   }
 }
