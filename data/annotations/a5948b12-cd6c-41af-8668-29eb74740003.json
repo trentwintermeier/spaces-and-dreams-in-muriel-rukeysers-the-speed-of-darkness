@@ -1,5 +1,2414 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 55,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. It sounds peculiar when it's said that way, you know. It just means that I've been writing poems all along, and that sometimes there's been some prose or something--film, prose, whatever it is--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "858304db-3a7b-4ee7-80c3-670a40688d02"
+    },
+    {
+      "start_time": 80,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they lie all the time about the poems, to us, you know, about all of our poems. They say it's something very odd and rare, and people who do it are very odd. If a man does it, he's sexually questionable; if a woman does it, she's sexually questionable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d3ee874b-8234-46fa-8d94-37849332cd09"
+    },
+    {
+      "start_time": 104,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Besides, very few people do it. And it's all lies, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2739ba8b-5750-4840-b910-6293d7b2337f"
+    },
+    {
+      "start_time": 111,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's a company in the United States that's made a fortune on the premise that everybody takes a snapshot at some time or other. And I would like to ask you--and this is apart from all critical standards, all criteria, all faculty and institutions, apart from any of that--I would like to ask a question: how many of you here has ever written a poem, would you put up your hands please?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "86650e97-0099-489f-828b-abe176cf3f6a"
+    },
+    {
+      "start_time": 150,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "105d5965-464d-486b-9c7a-cc71be0c3661"
+    },
+    {
+      "start_time": 153,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm always nervous before I ask the question. I ask the question, now, in all rooms, no matter how few or many people there are, and if the universities would generally look around to see if the basketball team is there, but there's always the moment of silence, and looking around first. And then, generally, quite slowly, almost all the hands go up. Maybe four or five do not put up their hands. And if I wait around afterwards, and with any luck and favorable wins, the four or five people come up to me and will say something like: I was fifteen, it was a love poem, it stank."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1bd20bc5-51b8-46c5-b10e-8565829cec70"
+    },
+    {
+      "start_time": 202,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The thing is, it's a human activity; we all do it. We lie about it, you know, and they lie about it to us. And, thanks now to the young, the poets, maybe, a few other people one could name together, maybe we don't lie so much-- so much as we used to. Maybe we don't lie about this anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b0ebaa36-147a-4c8f-b6bf-e8f788093ffd"
+    },
+    {
+      "start_time": 237,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe we don't lie about sex, maybe we don't lie about poetry. They seem to lie a great deal about politics instead. It seems to shift around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "185137eb-ed8d-4995-b6e2-b97851d352ff"
+    },
+    {
+      "start_time": 246,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, there are these, and the fact is: we all write poems. It is something we do. We come to this part of experience: You get a very, very rainy evening; why do poeple come and listen to poems? Or you've got some marvelous summer night; why do people come and listen to poems?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5ed76673-1189-483e-9450-80ade1a1a15c"
+    },
+    {
+      "start_time": 269,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's partly out of curiosity and looking at the person and I go to see: What is that breathing behind, what is that heartbeat, the breathing goes against the heartbeat and these rhythms are set up, and the involuntary muscles and you see the person do it but beyond that, something is what we called shared--something is arrived at--we come to something with almost unmediated  that is the poem among us, between us, there, we're reaching each other, you're giving me whatever silence you are giving me and it comes to me with great strength, your silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ff92c728-820e-4788-9ef9-a114e4e2a7ab"
+    },
+    {
+      "start_time": 325,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somebody said \"primadona,\" you know, or I'm going give this to the audience and the conductor cause that's what you think--you're going to get it from the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8c1788e7-e179-4daa-a723-5d19d0922131"
+    },
+    {
+      "start_time": 337,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's where it comes from, in a funny way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "264bd07c-9c83-499c-9adf-607167b80826"
+    },
+    {
+      "start_time": 346,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, this mediation, it is not a description, it is not only the music and it, although certainly the reinforcement of sound-- the sound climbing up and finally reaching a place, the last word; the sound that begins with the first breathing, the breath of the title."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "40277aec-3ed6-4da2-bc57-eb0734e73940"
+    },
+    {
+      "start_time": 375,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keats' doing \"Ode to a Nightingale.\" We hardly ever say \"ode.\" Nobody says \"nightingale.\" But Keats, having said that, never has to say it again. It's a bird. You find it in these things. But, from the beginning--from the first moment--that is, the first breath, the thing that is made as, suggestion, breath, what my life has been, whatever that is- what your lives have been. This is a very short one called \"Song.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6a05d23b-0751-492c-aa01-a818d7b0a09f"
+    },
+    {
+      "start_time": 456,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is another very short one. I wanted to start with these and see what happened. I call it \"In Our Time.\" It's very- it's four lines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "91e989a3-1bcb-47a0-b3c0-d3b6f329639e"
+    },
+    {
+      "start_time": 494,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is called \"The Poem As Mask.\" It's for another poem--a big Orpheus poem that I wrote a long time ago--and it had the acting out. The acting out the women on the mountain after the murder, the pieces of the man scattered about the top of the mountain, the slow coming together of the pieces as God. And I realized, long after, when I came to this newest book, \"Speed of Darkness\", that this was a mask--that I did not want any more of this. You know how it is. It happens to undergraduates. Say, it happens to the thing that was just before, and you see girls acting very childish, and trading on it, and thinking they're still thirteen and able to influence their father. And it's been used up, used up. It's served its purpose back there, but it isn't that anymore. And these, phases of being, \"The Poem As Mask,\" Orpheus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "16af7c99-5adf-45f0-a725-0631cdbc3de2"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is called \"Orgy.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d8913d64-ccd4-4183-b9be-cc90a115262b"
+    },
+    {
+      "start_time": 1156,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is called \"Bunk Johnson Blowing.\" If you know the early jazz men--the New Orleans Jazz men--you'll know Bunk Johnson and his trumpet. This is years later in San Francisco. \"Bunk Johnson Blowing\" and the dedication is in memory of Lead Belly, and his house on 59th Street. That's New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b32b1744-5e05-482c-a8e7-c0d6c22380ed"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 1279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is one called \"Endless.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "396901c8-bca9-4e4c-8d4c-e92b95d40b4a"
+    },
+    {
+      "start_time": 1380,
+      "end_time": 1435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This last one of the first group is called \"Clues.\" It's a Canadian, a British Columbia poem. It-is- how it is among the Thompson River Indians, or how it was in the anthropological moment. Imagine that flash of moment before it was broken up by this civilization, and we have caught up to some of this, without know what the hell it was, what this is. We are full of body painting, tattooing, emblems painted on ourselves, this is further. \"Clues\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "dcc32d04-c94a-45be-be0e-2754fe2b3f83"
+    },
+    {
+      "start_time": 1557,
+      "end_time": 1577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here's one piece of a long poem. It's the last of a group called \"Elegies,\" which one hardly dares name anything anymore. It's called \"Elegy in Joy,\" and it's just a beginning piece. I wanted to do it tonight this way; I've never cut it up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bdae742e-6a2d-4b66-88f5-a2ec7ed7775b"
+    },
+    {
+      "start_time": 1709,
+      "end_time": 1795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought of that very much at the beginning of this month in Mexico, and yesterday when I heard a story. It's a story of what happened at Christmas time. I was in Mexico--I wonder whether you saw it--I heard of it yesterday in New York as a little three line story in the back page of the New York Times, saying that the largest underground bomb-test was about to be held in Nevada--in the States--and to that test, the day before, came five scientist, in Utah--in the States--to protest, to picket, to try to stop it. And another person who protested, was Howard Hughes, who owns most of Las Vegas at this point, and had his own reasons for protesting. These protests did not stop the testing. The test was made. It was the largest underground made yet. Do you know this story? There was a crack, a crack in the earth, big enough, they said, the way we talk, big enough for the Empire State Building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "01cf4b62-6459-4fc3-a101-85f9106874be"
+    },
+    {
+      "start_time": 1795,
+      "end_time": 1851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's a crack there, and deep under the crust there's a three foot crack of some kind, and the rocks are still falling, and they say there will be earthquakes in various parts, unpredictable parts of the world as a result of the shift of the under-crust. Now last night, before I came here, on TV, late news in New York, they said that there'd been a quake in the Fiji Islands. I have no idea what the relations between these things are,=. I give it to you simply; that something has happened to shift the under-crust, there will be unpredictable results. This is under the ground. The way we are bound to each other, we are all so bound to each other through the air, and the fall out has come over Canada. This is also a part of the story that I heard yesterday, and you, I can see by your nods, you know this part of the story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ca203b8f-7b4e-49e1-813a-e61b3b112d5e"
+    },
+    {
+      "start_time": 1851,
+      "end_time": 2011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People were saying one thing, and then the other, about why don't we do this, why don't they do that--part of the story is that maybe nothing will fall because the Russians also wish to make underground tests. It's part of the ways in which we are bound to each other. I'll give you that. In Mexico, we are bound under the ground, over the ground, in every way there is. In Mexico, though the stories of what really happened to the students in October, and the stories of people-- of many students --were killed and the police were among the crowd, and the police wore one white glove or tied a handkerchief around their right hand, and when the helicopters came over, these white hands were put up that said \"don't shoot us, we're police.” Many students were shot, and they say in Mexico City that the bodies were incinerated, and no reports were made and no count was made. And these are the ways in which we are bound, too. And yes, I have been translating Octavio Paz, and Eikelof is another such poet, but Paz--the end of one of Octavio's poems--was printed on this issue of the University Student's Journal of the University of Mexico, with the account of September, October, November, December. And the poem ends like this in English. It's not as good, I warn you, these translations are a folly on a madness on a stupidity and at the same time one has to do it. As work to which one is driven, out of love and gratitude, and also out a motive not so noble as any of that. During the times in which one cannot write poems, it is wonderful to have something one cares about out in front of one, and work with it that way. And it's the thing, not spinning out of oneself in those times, but having something out in front. This is the end of the- of a great poem of Octavio Paz's called \"A Broken Jar.” And jar, of course--water jar--is something quite different in Mexico. We say 'jar.’ 'jug.’ something like that. It isn't in the thing we use every day, in Mexico, it's every day; it's that kind of broken jar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "49401b72-3497-46ba-886a-990b25fd68c1"
+    },
+    {
+      "start_time": 2076,
+      "end_time": 2076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These are some poems, since my last book, and I don't know whether they are finished. They may be finished. The next book that these will be in will be called Breaking Open. This is a short one called \"Martin Luther King.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "39f74fc6-0512-4a55-8e49-178b63fee508"
+    },
+    {
+      "start_time": 2146,
+      "end_time": 2245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a poem I found a long time ago-- you probably have found it in the same way. It's on the back of a one of the Goga water colours. It's a piece of poem without any heading, without any signature. I didn't know what it was, and it stopped me, and it stayed in me, and I tried to turn it into English, and I couldn't do it. And I finally found out what it was and I finally turned it into English. It's a poem by Charles Maurice, who is hardly read--you know him? No. He's one of those people around Gauguin, and I said well, 'you can't print anything like that, people,' and then \"2001\"  was written and released, and \"2001\" has stargate, starbaby, the whole thing, and I put the name \"Next\" on this and I'm reading it to you partly for itself, but partly because one line of it is something I used in a poem I wrote when the same thing happened to many of us. The Olympics committee wrote to us and asked for poems, you know, for the games, or for the times of the games, or for something. And one wasn't exactly going to do that, but there was something that could be said, and so on. Anyway, this is the Maurice, and I've called it \"Next\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "0bc121d2-bc96-4557-b9b6-319be2884805"
+    },
+    {
+      "start_time": 2300,
+      "end_time": 2300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this poem, using one line of that was what I said to Mexico. It's called \"Voices.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "18ffdef3-d566-41e3-a134-60337845e255"
+    },
+    {
+      "start_time": 2400,
+      "end_time": 2400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The last poem I'll read this evening is a group. The group is called \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a2093273-343d-4b58-a19c-2c4d801834dc"
+    },
+    {
+      "start_time": 2411,
+      "end_time": 2411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're short poems and I'll just pause between poems. There should be numbers doing up in back of me. One, two, three. I'll just pause. \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3c4e2b86-3165-4d5d-95e9-520b9b8361e2"
+    },
+    {
+      "start_time": 414,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Song.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "a34caaea-ec77-4731-931c-21c9955c27e6"
+    },
+    {
+      "start_time": 474,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"In Our Time.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "8b68270b-bba1-45d7-9ffe-a564980bd380"
+    },
+    {
+      "start_time": 570,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"The Poem as Mask.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "64023def-b143-445b-a21d-3bfb606bdedd"
+    },
+    {
+      "start_time": 671,
+      "end_time": 700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Air.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "e6842c45-811a-434c-bc15-056fbe895436"
+    },
+    {
+      "start_time": 710,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Poem.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "6f8a19d8-00d8-4184-b7a3-9b6606904cd9"
+    },
+    {
+      "start_time": 847,
+      "end_time": 883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Anemone.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "833de964-3aa1-4306-ac54-0983a0405adf"
+    },
+    {
+      "start_time": 894,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"For My Son.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "c292cbfd-87da-4b93-bd57-14607b1d945e"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Orgy.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "558fce99-628b-45d8-a67d-9015be7cf793"
+    },
+    {
+      "start_time": 1188,
+      "end_time": 1276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Bunk Johnson Blowing.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "03f96f80-7989-4d95-bdbf-961a4ed16b97"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Endless.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "5dd1172e-d902-4e06-9eb0-2c535e79e968"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Clues.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "ed8d8c67-5c1f-4c51-9dab-bfd43f050647"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Elegies in Joy.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "14a8cbb5-0f2d-4104-af52-661c417aefbf"
+    },
+    {
+      "start_time": 2015,
+      "end_time": 2068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"A Broken Jar.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "56d4948a-d7a3-4162-be18-5337b673a624"
+    },
+    {
+      "start_time": 2100,
+      "end_time": 2143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Martin Luther King.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "958a95cf-d13f-4893-950c-f0f19ff0487a"
+    },
+    {
+      "start_time": 2249,
+      "end_time": 2301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Next.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7356dc0c-3673-40f3-89e1-f75082dfb72e"
+    },
+    {
+      "start_time": 2314,
+      "end_time": 2399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"Voices.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7f53b558-4a1f-4172-8c45-dbc090a63781"
+    },
+    {
+      "start_time": 2430,
+      "end_time": 2770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser reads her poem titled \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "0221dfd6-cf8e-4b09-96ee-a1d94c9a786b"
+    },
+    {
+      "start_time": 46,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience applaudes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "92220a75-20f0-4a66-a5a2-b83e2fe430ce"
+    },
+    {
+      "start_time": 102,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "d156e8fb-1ae0-45da-8775-861534d0cdd1"
+    },
+    {
+      "start_time": 147,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "ad3a6e27-e231-4d2f-b6d2-99e40efa6f43"
+    },
+    {
+      "start_time": 198,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "a0468afc-c690-4fc8-8e34-b0c313cc5972"
+    },
+    {
+      "start_time": 244,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7c261d33-b08e-49f2-8e44-1edee6615046"
+    },
+    {
+      "start_time": 490,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7c6effc3-9460-4a13-92c1-7367e77b24ca"
+    },
+    {
+      "start_time": 655,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An audience member coughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "5ea41c59-cf77-481c-9365-543118dfafc4"
+    },
+    {
+      "start_time": 657,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An audience member coughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "7d0406f9-90f9-4386-b6d4-ca7423506534"
+    },
+    {
+      "start_time": 1770,
+      "end_time": 1770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "f13de876-df34-4b7c-9d44-6c785df094e5"
+    },
+    {
+      "start_time": 2771,
+      "end_time": 2796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience applaudes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "23466da1-bb66-4188-abca-47642555c30e"
+    },
+    {
+      "start_time": 2811,
+      "end_time": 3084,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience speaks quietly as recording continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "27b66cb9-7c73-4865-b1fa-87c5372e7b01"
+    },
+    {
+      "start_time": 0,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The announcer introduces Rukeyser."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "8a0ea945-af3e-45c5-8f74-b7fd8fc37162"
+    },
+    {
+      "start_time": 2,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She has published ten volumes of poetry, which include such books as The Green Wave, The Turning Wind, Beast and View, U.S. 1, Theory of Flight, Body of Waking, Waterlily Fire, and The speed of darkness, amongst others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Announcer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c7f9577f-e03f-4492-8ca4-2861c87e5f1d"
+    },
+    {
+      "start_time": 16,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She has published essays, a biography-- she's working on a biography now. She has published a novel called The Orgy. She has published translations of the Mexican Writer Octavio Paz, and the Swedish poet Gunnar Ekelof. She has published a number of children's books. And, what else can I say?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Announcer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "08a4afda-c321-4bd5-9972-042ff3dd69c4"
+    },
+    {
+      "start_time": 37,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is a New Yorker. She was born in New York, she lives in New York, and so forth. I now introduce Muriel Rukeyser."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Announcer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "914b3d4f-85c2-4571-92c4-5a6257bff82a"
+    },
+    {
+      "start_time": 2798,
+      "end_time": 2810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We wish to announce that the next reading will be by F.R. Scott, and that will be on February 14th--at the same time-- in the theater in the basement of this building. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Situational"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Announcer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "77effcc8-ca2c-4117-b3da-afbfc8c43ab6"
+    },
+    {
+      "start_time": 2411,
+      "end_time": 2448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whoever despises the clitoris despises the penis. Whoever despises the penis despises the cunt. Whoever despises the cunt despises the life of the child. Resurrection, music, silence, and surf. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "025e65d4-d674-400a-9940-172cb490358a"
+    },
+    {
+      "start_time": 2448,
+      "end_time": 2451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the first and second stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "cb99bd8d-0e84-44e2-8dd2-b4a4aefcef8f"
+    },
+    {
+      "start_time": 2451,
+      "end_time": 2468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No longer speaking. Listening with the whole body. And with every drop of blood. Overtaken by silence. But this same silence is become speech, with the speed of darkness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e334290a-ed39-43c4-9d6e-db573bccd0df"
+    },
+    {
+      "start_time": 2468,
+      "end_time": 2471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the second and third stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "95379b62-6dd4-4103-a6d9-3ddffb934be8"
+    },
+    {
+      "start_time": 2471,
+      "end_time": 2494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stillness during war, the lake. The unmoving spruces. Glints over the water. Faces, voices. You are far away. A tree that trembles. I am the tree that trembles and trembles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "cc38b559-2080-4a80-850f-a77f31d1a867"
+    },
+    {
+      "start_time": 2494,
+      "end_time": 2498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the third and fourth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "51482f6d-b992-4b79-bed0-374d86cd9867"
+    },
+    {
+      "start_time": 2498,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the lifting of the mist, after the lift of the heavy rains, the sky stands clear and the cries of the city risen in day. I remember the buildings are space walled, to let space be used for living. I mind this room is space this drinking glass is space whose boundary of glass let’s me give you drink and space to drink your hand, my hand being space containing skies and constellations. Your face carries the reaches of air. I know I am space my words are air."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a1121c2c-8716-4b22-8df2-f9f307bb85e5"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the fourth and fifth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "26a58dc4-e4b5-4e6b-8ba1-2683abc90a45"
+    },
+    {
+      "start_time": 2534,
+      "end_time": 2578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between between, the man, act exact. Woman, in curve senses in their maze, frail orbits, green tries, games of stars, shape of the body speaking its evidence"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3c8073d4-059a-418e-ac1b-ce1b4c08bf00"
+    },
+    {
+      "start_time": 2578,
+      "end_time": 2582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the fifth and sixth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "1dd98f95-8855-4214-a366-13e62cf65bec"
+    },
+    {
+      "start_time": 2582,
+      "end_time": 2597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I look across at the real, vulnerable, involved, naked; devoted to the present of all I care for. The world of its history leading to this moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f274a30a-197f-45e2-9b2f-922a4fe1ec61"
+    },
+    {
+      "start_time": 2597,
+      "end_time": 2600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the sixth and seventh stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "0ee75936-1894-4582-8075-706642a7b3dc"
+    },
+    {
+      "start_time": 2600,
+      "end_time": 2618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Life the announcer. I assure you there are many ways to have a child. I bastard mother promise you there are many ways to be born. They all come forth in their own grace. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "51c3c948-4dac-45d5-8220-f3f57fb2feb6"
+    },
+    {
+      "start_time": 2618,
+      "end_time": 2621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the seventh and eigth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "fef5b93f-54b6-44a6-9cc2-5cf9a5d4a45f"
+    },
+    {
+      "start_time": 2621,
+      "end_time": 2632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ends of the earth join tonight with blazing stars upon their meeting. These sons, these sons fall burning into Asia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "83e587a7-578a-4618-aeb2-67fc0fb72e41"
+    },
+    {
+      "start_time": 2632,
+      "end_time": 2636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the eighth and ninth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "f7f15c2c-a7cf-4329-832e-ff9df1fe8826"
+    },
+    {
+      "start_time": 2636,
+      "end_time": 2644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Time comes into it. Say it. Say it. The universe is made of stories, not of atoms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1fcd863d-6eba-4bc5-90b8-62b9b5b14753"
+    },
+    {
+      "start_time": 2644,
+      "end_time": 2647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the ninth and tenth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "ecc4c3f5-9d85-486c-972a-ae170efd20a8"
+    },
+    {
+      "start_time": 2647,
+      "end_time": 2674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lying, blazing beside me, you rear beautifully and up—your thinking face—erotic body reaching in all its colors and lights—your erotic face colored and lit—not colored body-and-face but now entire colors, lights. The world thinking and reaching."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "df950ae0-e60b-4e66-8285-a6c6fb15d661"
+    },
+    {
+      "start_time": 2674,
+      "end_time": 2678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the tenth and eleventh stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "f9f3ff75-c7f0-4e31-a2cb-47719730b81f"
+    },
+    {
+      "start_time": 2678,
+      "end_time": 2693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The river flows past the city. Water goes down to tomorrow making its children. I hear their unborn voices. I am working out the vocabulary of my silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c7be8fce-3fa8-4d7a-add2-a8cd139b2402"
+    },
+    {
+      "start_time": 2693,
+      "end_time": 2697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the eleventh and twelfth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "816f1dba-a7b6-447c-8c06-9e19811478d2"
+    },
+    {
+      "start_time": 2697,
+      "end_time": 2738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Big-boned man young and of my dream. Struggles to get the live bird out of his throat. I am he am I? Dreaming? I am the bird am I? I am the throat? A bird with a curved beak. It could slit anything, the throat-bird. Drawn up slowly. The curved blades, not large. Bird emerges, wet, being born. Begins to sing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e109fe42-6d03-453b-a5fd-07e70684509f"
+    },
+    {
+      "start_time": 2738,
+      "end_time": 2741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses between the twelfth and thirteenth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "bcc7bf23-2751-4c0a-b8f8-883c81fb492b"
+    },
+    {
+      "start_time": 2741,
+      "end_time": 2767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My night awake staring at the broad rough jewel, the copper roof across the way, thinking of the poet yet unborn in this dark who will be the throat of these hours. No. Of those hours. Who will speak these days, if not I, if not you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reading"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "36f197c6-46e9-4a2b-b340-862b9edc19ba"
+    },
+    {
+      "start_time": 2767,
+      "end_time": 2769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rukeyser pauses after the thirteenth stanza while reading \"The Speed of Darkness.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rukeyser"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Notes"
+        }
+      ],
+      "uuid": "659867f1-19d5-4c05-b2d3-eec37fd50f84"
+    }
+  ],
   "set": "Default",
   "event_id": "1508b533-6ae3-45bf-a1af-1c04f0cf1f13",
   "source_id": "b9ae9f42-d1fc-4a55-992e-abc7984ffb96"
