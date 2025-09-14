@@ -34,10 +34,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Notes"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Rukeyser"
         },
         {
@@ -67,7 +63,7 @@
       ]
     },
     "created_at": "2024-11-19T23:10:36.107Z",
-    "updated_at": "2025-09-14T15:28:18.414Z",
+    "updated_at": "2025-09-14T15:28:21.811Z",
     "generate_pages_site": true
   }
 }
