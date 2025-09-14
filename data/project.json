@@ -34,10 +34,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Introducer"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Speaking"
         },
         {
@@ -55,7 +51,7 @@
       ]
     },
     "created_at": "2024-11-19T23:10:36.107Z",
-    "updated_at": "2025-09-14T15:28:26.454Z",
+    "updated_at": "2025-09-14T15:28:30.482Z",
     "generate_pages_site": true
   }
 }
