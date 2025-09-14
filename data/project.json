@@ -34,10 +34,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Audience"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Introducer"
         },
         {
@@ -59,7 +55,7 @@
       ]
     },
     "created_at": "2024-11-19T23:10:36.107Z",
-    "updated_at": "2025-09-14T15:28:24.358Z",
+    "updated_at": "2025-09-14T15:28:26.454Z",
     "generate_pages_site": true
   }
 }
